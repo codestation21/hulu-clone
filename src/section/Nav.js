@@ -1,0 +1,17 @@
+import Requests from "utilis/Request";
+import { useRouter } from 'next/router';
+function Nav() {
+    const router = useRouter();
+    return (
+        <nav className="relative">
+            <div className="flex px-10 sm:px-20 text-xl whitespace-nowrap space-x-10 overflow-x-scroll scrollbar-hide" id="container">
+                {Object.entries(Requests).map(([key, { title, url }]) => (
+                    <h2 className="last:pr-24 cursor-pointer mt-5 mb-5 transition duration-100 transform hover:scale-110 hover:text-white active:text-red-500" key={key} onClick={() => router.push(`/?genre=${key}`)}>{title}</h2>
+                ))}
+            </div>
+            <div className="absolute top-0 right-0 bg-gradient-to-l from-[#06202A] h-10 w-1/12 mt-5" />
+        </nav>
+    )
+}
+
+export default Nav
