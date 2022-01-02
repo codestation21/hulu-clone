@@ -4,7 +4,7 @@
 
 # Hulu Clone
 
-A responsive beautiful Weather mobile App landing page.
+A responsive movie details showing web application using Next.Js.
 
 ## Demo
 
