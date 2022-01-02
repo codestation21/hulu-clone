@@ -65,7 +65,7 @@ yarn dev
 ## Tech Stack
 
 **Client:** 
-Html,CSS3,JQuary,Modernizer,fontawsome,Bootstarp,animated css,javascript
+Next.Js, React.Js,Redux, REST
 
 
 
