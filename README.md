@@ -8,7 +8,7 @@ A responsive beautiful Weather mobile App landing page.
 
 ## Demo
 
-https://hulu-clone-six-alpha.vercel.app/
+https://hulu-clone-sh.netlify.app/
 
 ## Deployment
 
