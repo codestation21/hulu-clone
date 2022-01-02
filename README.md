@@ -50,7 +50,7 @@ yarn dev
 ```
 ## Screenshots
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/hulu.png?alt=media&token=dbe7bbb3-4901-4afc-b145-4ef2357665a3)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/hulu%20clone.jpeg?alt=media&token=7bee9db5-3f3a-4c67-9714-3ecaae16cd8a)
 
 
 
@@ -61,7 +61,7 @@ yarn dev
 
 ## Video
 
-![Alt Text](https://media.giphy.com/media/3get7R1ozeklIfRWs5/giphy.gif)
+![Alt Text](https://media.giphy.com/media/e2qRX61GewISFMMb7M/giphy.gif)
 ## Tech Stack
 
 **Client:** 
