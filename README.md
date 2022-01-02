@@ -75,7 +75,7 @@ Html,CSS3,JQuary,Modernizer,fontawsome,Bootstarp,animated css,javascript
 Clone the project
 
 ```bash
-  git clone https://github.com/codestation21/fun-weather.git
+  git clone https://github.com/codestation21/hulu-clone.git
 ```
 
 Go to the project directory
